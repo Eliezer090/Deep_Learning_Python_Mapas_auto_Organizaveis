@@ -25,3 +25,4 @@ Tarefa 12: Base de dados breast cancer<br>
 90. Construção do mapa auto organizável<br>
 91. Detecção de suspeitas de fraudes<br>
 Tarefa 13: Detecção de outliers em imagens - Bart e Homer<br>
+https://github.com/Eliezer090/Deep_Learning_Python_Mapas_auto_Organizaveis/blob/main/Imagens/Captura%20de%20Tela%202021-11-09%20%C3%A0s%2022.16.22.png?raw=true
