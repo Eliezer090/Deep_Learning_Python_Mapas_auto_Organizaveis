@@ -36,3 +36,7 @@ Tarefa 13: Detecção de outliers em imagens - Bart e Homer<br>
   <img src="https://github.com/Eliezer090/Deep_Learning_Python_Mapas_auto_Organizaveis/blob/main/Imagens/Captura%20de%20Tela%202021-11-09%20%C3%A0s%2022.16.22.png?raw=true" width="350" title="Tarefa 13">
 </p>
 
+# Links
+
+[Link do curso](https://www.udemy.com/course/deep-learning-com-python-az-curso-completo/)
+
